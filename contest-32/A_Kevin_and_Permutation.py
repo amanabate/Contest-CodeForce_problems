@@ -10,5 +10,5 @@ for _ in range(t):
             res.append(d + 1 + i // 2)
         else:
             res.append(i // 2 + 1)
-            
+         
     print(*res)
